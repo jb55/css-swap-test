@@ -1,0 +1,14 @@
+{
+  "name": "css-swap-test",
+  "repo": "jb55/css-swap-test",
+  "description": "Quickly swap css properties in/out to get correct calculations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
